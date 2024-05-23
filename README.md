@@ -16,3 +16,10 @@ Current thoughts of tech tree:
 2. Discovery and first experimentations with Magic.
 3. Early Magic-Technology, additional experimentation.
 4. More advanced Magitech, maybe nether tech (not including addon).
+
+Addons include:
+Piglin Overhaul (inspired by Minecraft Legends]
+Villager Overhaul
+Piglin Overhaul (inspired in part by Minecraft Legends and Minecraft Dungeons]
+Pollution Compatability (compatability mod for a custom pollution system, seperate from pollution of the realms]
+
