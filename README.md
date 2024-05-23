@@ -1,10 +1,18 @@
 # Proj.Shinra-mcmd
 Minecraft Mod that combines Industrial/Technology and Magic together (1.18.2]
 
-i dont know what to fill this with, i guess just filler?
+Short-explanation explains it all. Its a minecraft mod that intends to combine technology and magic in a neat enough way.
+Specifically, its Crystalline Magic; where in that there are Diodes, Vacuum tubes, ect, made using a form of magic crystal; as a method to achieve such.
+Some machines lean more magic, some more tech, depending on the task. Some are entirely such, due to the lack of the other at the region in its tech tree.
 
-something, something. three seperate tech tree types are intended (the magic tree, technology tree, and magitech tree]; each one written differently
-machine skins are also an idea i was thinking of; incase people wanted to make more exotic builds, or wanted more specific styles (whether the machine changes size from this is undecided but unlikely]
+This will have several components seperated as addons. Nether Overhaul, Villager Overhaul, Pillager Overhaul, Temple Overhaul, Pollution System, and potentially others, may be seperated into other mods.
 
-pollution is absolutely planned to be included in this mod, likely in each layer (magic pollution and industrial pollution - a combination of both is likely possible but i have no ideas for such yet]
-pollution management will be included alongside this, of course; alongside a seperation between 'interior pollution' and 'chunk pollution' (though i dont know how fluid pollution would be handled; especially once it hits oceans]
+Tech Tree will be accessed by a book, but to research, you need an equivelant station. Knowledge transfer between players is also achievable, alongside "reverse engineering" as a special method without permission.
+
+Sabotage may be conceptualized as a potential system.
+
+Current thoughts of tech tree:
+1. Start with basic machines.
+2. Discovery and first experimentations with Magic.
+3. Early Magic-Technology, additional experimentation.
+4. More advanced Magitech, maybe nether tech (not including addon).
