@@ -1,4 +1,4 @@
-# Proj.Shinra-mcmd
+# Crystallum-Technologia
 Minecraft Mod that combines Industrial/Technology and Magic together (1.18.2]
 
 Short-explanation explains it all. Its a minecraft mod that intends to combine technology and magic in a neat enough way.
@@ -19,7 +19,8 @@ Current thoughts of tech tree:
 
 Addons include:
 Piglin Overhaul (inspired by Minecraft Legends]
-Villager Overhaul
-Piglin Overhaul (inspired in part by Minecraft Legends and Minecraft Dungeons]
+Villager Overhaul (including villages]
+Pillager Overhaul (inspired in part by Minecraft Legends and Minecraft Dungeons]
 Pollution Compatability (compatability mod for a custom pollution system, seperate from pollution of the realms]
-
+Hypothetical 'Workers and Unions Expansion' (requires all three overhauls]
+Golems and Robots Pack (partially legends inspired, will have a 'sub-expansion' which might require the same mods as the Workers and Unions expansion, due to including Villager, Piglin, and Pillager 'Golems']
