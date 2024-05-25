@@ -1,5 +1,5 @@
 # Crystallum-Technologia
-Minecraft Mod that combines Industrial/Technology and Magic together (1.18.2]
+Minecraft Mod that combines Industrial/Technology and Magic together (1.20.1]
 
 Short-explanation explains it all. Its a minecraft mod that intends to combine technology and magic in a neat enough way.
 Specifically, its Crystalline Magic; where in that there are Diodes, Vacuum tubes, ect, made using a form of magic crystal; as a method to achieve such.
